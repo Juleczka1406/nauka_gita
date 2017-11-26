@@ -1,5 +1,5 @@
 # Git Nauka
-Projekt do nauki GIT-a
+Projekt do nauki GIT-a i początki Pythona.
 
 Sekcja 1
 
@@ -7,4 +7,5 @@ Sekcja 1
 Sekcja 2
     Ćwiczenia
 Sekcja 3
+
 Sekcja 4
